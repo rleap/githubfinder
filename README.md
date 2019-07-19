@@ -1,6 +1,6 @@
 # GitHub Finder
 
-This is used to search for and find GitHub users and display their profile information.
+This app is used to search for and find GitHub users and display their profile information.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
